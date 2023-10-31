@@ -1,2 +1,4 @@
-#EXTINF:-1  group-title="DENS TV" tvg-logo="https://dl.dropbox.com/s/gnxa9u7j59b8gpa/png",KOMPAS TV
-http://rr2.dens.tv/s/s104/index10.m3u8?app_type=web&userid=jjj&chname=Kompas_TV
+#EXTINF:-1 group-title="DENSTV",Indosiar
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8?app_type=web&userid=lite&chname=Indosiar
