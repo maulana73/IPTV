@@ -1,4 +1,0 @@
-#EXTINF:-1 group-title="DENSTV",M+
-#EXTVLCOPT:http-referrer=https://www.dens.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h242/index.m3u8?app_type=web&userid=lite&chname=M+
